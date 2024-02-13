@@ -1,6 +1,14 @@
 # MERN-Project
 
-An exercise consisting of a **React** client and an **Express** server interacting with **REST API** and storing data in **MongoDB**
+This project consists of a **React** client and an **Express** server interacting with **REST API** and storing data in **MongoDB**. 
+
+## MVP
+
+- Display all available "workouts", which are a series of exercises with appropriate load and number of reps.
+- Able to create, read, edit, and delete these workouts, to complete the CRUD process.
+
+## DEMO
+<img src="./images/1.png">
 
 ## Prerequisites
 
@@ -47,8 +55,7 @@ npm install
 npm start
 ```
 
-4. View application
-The application will be available at [http://localhost:3000](http://localhost:3000)
+4. View application: The application will be available at [http://localhost:3000](http://localhost:3000)
 
 ## Configuration
 
@@ -77,6 +84,3 @@ The following routes are available:
 
 ## Backend project structure
 <img src="./images/3.png" width="30%">
-
-## DEMO
-<img src="./images/1.png">
